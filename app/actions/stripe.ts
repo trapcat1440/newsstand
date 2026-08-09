@@ -67,5 +67,4 @@ export async function startCheckoutSession(cart: CartInput) {
 
   return session.client_secret
 }
-```
 
