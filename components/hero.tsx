@@ -10,14 +10,14 @@ export function Hero() {
       <div className="mx-auto max-w-[1400px] px-4 py-14 md:px-6 md:py-20">
         <p className="mb-6 flex items-center gap-3 text-sm font-bold uppercase tracking-[0.2em] text-primary">
           <span className="inline-block size-2 bg-primary" aria-hidden="true" />
-          Fresh issues, every week
+          Grab the release of a lifetime
         </p>
         <h1 className="text-balance font-display text-6xl uppercase leading-[0.85] tracking-tight sm:text-7xl md:text-8xl lg:text-9xl">
           The best independent{" "}
           <span className="text-primary">magazines</span>, on one stand.
         </h1>
         <p className="mt-8 max-w-2xl text-pretty text-lg leading-relaxed text-muted-foreground md:text-xl">
-          Eight fiercely independent titles across tech, news, food, design,
+          Major independent titles across tech, news, food, design,
           travel, art, business, and music. Buy single issues. No subscription,
           no clutter — just great print, delivered.
         </p>
@@ -26,7 +26,7 @@ export function Hero() {
             href="#titles"
             className="border-2 border-foreground bg-foreground px-6 py-4 text-sm font-bold uppercase tracking-widest text-background transition-colors hover:bg-primary hover:text-primary-foreground"
           >
-            Shop all titles
+            Shop available titles
           </a>
           <a
             href="#about"
