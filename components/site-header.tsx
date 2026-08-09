@@ -11,7 +11,7 @@ export function SiteHeader() {
       <div className="mx-auto flex max-w-[1400px] items-center justify-between gap-4 px-4 py-3 md:px-6">
         <a href="#top" className="flex items-baseline gap-2">
           <span className="font-display text-2xl uppercase leading-none tracking-tight md:text-3xl">
-            Newsstand
+            Agency Reading©
           </span>
           <span
             className="hidden size-2 bg-primary md:block"
@@ -21,7 +21,7 @@ export function SiteHeader() {
 
         <nav className="hidden items-center gap-6 text-sm font-bold uppercase tracking-widest md:flex">
           <a href="#titles" className="hover:text-primary">
-            Titles
+            Inventory
           </a>
           <a href="#about" className="hover:text-primary">
             About
