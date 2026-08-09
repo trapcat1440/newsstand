@@ -15,12 +15,12 @@ const STEPS = [
   {
     n: "02",
     title: "Checkout securely",
-    body: "Pay in a few taps with Stripe. Your card details never touch our servers.",
+    body: "Buy your first magazine and receive order within 3 days..",
   },
   {
     n: "03",
     title: "Read the good stuff",
-    body: "We print and ship your issues fast, straight to your door in recyclable packaging.",
+    body: "We hold over 100 magazines published in the last year.",
   },
 ]
 
@@ -40,7 +40,7 @@ export function Store() {
         >
           <div className="mx-auto max-w-[1400px] px-4 py-14 md:px-6 md:py-20">
             <h2 className="max-w-3xl text-balance font-display text-4xl uppercase leading-none tracking-tight md:text-6xl">
-              A newsstand that backs independent print.
+              A magazine store with the best prices.
             </h2>
             <div className="mt-12 grid grid-cols-1 gap-px border-2 border-background bg-background md:grid-cols-3">
               {STEPS.map((step) => (
@@ -64,12 +64,13 @@ export function Store() {
       <footer className="border-t-2 border-foreground">
         <div className="mx-auto flex max-w-[1400px] flex-col gap-4 px-4 py-8 md:flex-row md:items-center md:justify-between md:px-6">
           <span className="font-display text-3xl uppercase leading-none tracking-tight">
-            Newsstand
+            AgencyReading.com
           </span>
           <p className="text-sm text-muted-foreground">
-            Independent magazines, delivered. Built as a demo store — payments
-            run on Stripe test mode.
+            Independent magazines, delivered. 
           </p>
+         <a href="https://www.anrdoezrs.net/click-101756007-11944134" target="_top">
+<img src="https://www.tqlkg.com/image-101756007-11944134" width="150" height="40" alt="" border="0"/></a>
         </div>
       </footer>
 
