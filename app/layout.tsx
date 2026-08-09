@@ -17,7 +17,7 @@ const anton = Anton({
 })
 
 export const metadata: Metadata = {
-  title: "NEWSSTAND — Independent magazines, delivered",
+  title: "AgencyReading — Independent magazines, delivered",
   description:
     "A bold newsstand for the endlessly curious. Buy single issues of the best independent magazines across tech, news, food, design, travel, art, business, and music.",
   generator: "v0.app",
