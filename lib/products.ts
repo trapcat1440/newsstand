@@ -35,7 +35,7 @@ export const PRODUCTS: Product[] = [
     category: "News & Affairs",
     issue: "Issue 118",
     priceInCents: 1499,
-    image: "/covers/pulse.png",
+    image: "/covers/Acoustic Guitar - Digital-63158.jpeg",
     accent: "oklch(0.62 0.24 25)",
   },
   {
