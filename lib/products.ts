@@ -23,7 +23,7 @@ export const PRODUCTS: Product[] = [
     category: "Home & Room",
     issue: "Issue NEW",
     priceInCents: 3599,
-    image: "/covers/Backstage Magazine-54091.jpeg",
+    image: "/covers/The Excellent Place ( Full print ) (3).pdf (1).jpg",
     accent: "oklch(0.55 0.2 260)",
   },
   {
