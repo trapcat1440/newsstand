@@ -23,7 +23,7 @@ export const PRODUCTS: Product[] = [
     category: "Home & Room",
     issue: "Issue NEW",
     priceInCents: 3599,
-    image: "/covers/The Excellent Place ( Full print ) (3).pdf (1).jpg",
+    image: "/covers/The Excellent Place ( Full print ) (3).pdf (17).jpeg",
     accent: "oklch(0.55 0.2 260)",
   },
   {
