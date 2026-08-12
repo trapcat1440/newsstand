@@ -100,14 +100,14 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "Sports",
-    name: "GOLF",
-    tagline: "Golf Magazine is a sports magazine that provides everything golf enthusiasts need to improve their game",
+    name: "Motor Trend",
+    tagline: "This is a contemporary world car magazine which provides evaluations of automotive products for all varieties and styles of cars.",
     description:
-      "Golf Magazine is a sports magazine that provides everything golf enthusiasts need to improve their game. Published since 1960, Golf Magazine is packed with how-to instruction, features, tournament coverage, reviews of new equipment, articles on travel and interviews with the pros",
-    category: "Business & Finance",
+      "This is a contemporary world car magazine which provides evaluations of automotive products for all varieties and styles of cars.",
+    category: "Sports",
     issue: "Issue NEW",
     priceInCents: 4500,
-    image: "/covers/Golf-61.jpeg",
+    image: "/covers/Motor Trend-88.jpeg",
     accent: "oklch(0.5 0.13 160)",
   },
   {
