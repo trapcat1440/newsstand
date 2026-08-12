@@ -14,6 +14,18 @@ export interface Product {
 // and the checkout session validates the price server-side by looking up
 // the product id here — the client can never set its own price.
 export const PRODUCTS: Product[] = [
+   {
+    id: "Home",
+    name: "The Excellent Place",
+    tagline: "Avenue52 NY releasing the excellent place magazine strikes into architecture endavour with classy chairs and sofas..",
+    description:
+      "Avenue52 NY releasing the excellent place magazine strikes into architecture endavour with classy chairs and sofas..",
+    category: "Home & Room",
+    issue: "Issue NEW",
+    priceInCents: 3599,
+    image: "/covers/Backstage Magazine-54091.jpeg",
+    accent: "oklch(0.55 0.2 260)",
+  },
   {
     id: "backstage",
     name: "Backstage",
