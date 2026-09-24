@@ -2,6 +2,8 @@ import { Analytics } from "@vercel/analytics/next"
 import type { Metadata, Viewport } from "next"
 import { Archivo, Anton } from "next/font/google"
 import "./globals.css"
+import Script from "next/script"
+
 
 const archivo = Archivo({
   subsets: ["latin"],
