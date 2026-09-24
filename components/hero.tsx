@@ -7,6 +7,8 @@ export function Hero() {
 
   return (
     <section id="top" className="border-b-2 border-foreground">
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9880287056176748"
+     crossorigin="anonymous"></script>
       <div className="mx-auto max-w-[1400px] px-4 py-14 md:px-6 md:py-20">
         <p className="mb-6 flex items-center gap-3 text-sm font-bold uppercase tracking-[0.2em] text-primary">
           <span className="inline-block size-2 bg-primary" aria-hidden="true" />
