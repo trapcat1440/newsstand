@@ -27,6 +27,8 @@ const STEPS = [
 export function Store() {
   return (
     <CartProvider>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9880287056176748"
+     crossorigin="anonymous"></script>
       <SiteHeader />
       <main>
         <Hero />
