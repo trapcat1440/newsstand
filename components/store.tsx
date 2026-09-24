@@ -75,6 +75,8 @@ export function Store() {
 <img src="https://www.tqlkg.com/image-101756007-11944134" width="150" height="40" alt="" border="0"/></a>
         </div>
       </footer>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9880287056176748"
+     crossorigin="anonymous"></script>
 
       <CartDrawer />
     </CartProvider>
