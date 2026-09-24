@@ -47,7 +47,7 @@ export const PRODUCTS: Product[] = [
     category: "Wellness",
     issue: "Issue NEW",
     priceInCents: 9099,
-    image: "/covers/Time-1006/jpeg",
+    image: "/covers/Time-1006.jpeg",
     accent: "oklch(0.62 0.24 25)",
   },
   {
@@ -64,7 +64,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "Arts",
-    name: "Dancing Magazone",
+    name: "Dancing Magazine",
     tagline: "For over 80 years, dancers have turned to Dance Magazine for the most relevant, cutting edge and influential dance coverage",
     description:
       "Architecture and design that shapes the everyday, For over 80 years, dancers have turned to Dance Magazine for the most relevant, cutting edge and influential dance coverage.",
