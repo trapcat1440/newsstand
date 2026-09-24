@@ -8,6 +8,8 @@ export function SiteHeader() {
 
   return (
     <header className="sticky top-0 z-40 border-b-2 border-foreground bg-background">
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9880287056176748"
+     crossorigin="anonymous"></script>
       <div className="mx-auto flex max-w-[1400px] items-center justify-between gap-4 px-4 py-3 md:px-6">
         <a href="#top" className="flex items-baseline gap-2">
           <span className="font-display text-2xl uppercase leading-none tracking-tight md:text-3xl">
