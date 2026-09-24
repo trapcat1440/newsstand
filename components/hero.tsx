@@ -25,6 +25,8 @@ export function Hero() {
 <img src="https://www.tqlkg.com/image-101756007-17335202" width="1200" height="600" alt="Instant Funding - one challenge, two accounts. Use code BOGO20 for 20% off a One-Phase Clarity" border="0"/></a>
         <div className="mt-10 flex flex-wrap items-center gap-4">
           <a
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9880287056176748"
+     crossorigin="anonymous"></script>
             href="#titles"
             className="border-2 border-foreground bg-foreground px-6 py-4 text-sm font-bold uppercase tracking-widest text-background transition-colors hover:bg-primary hover:text-primary-foreground"
           >
