@@ -22,8 +22,8 @@ export function Hero() {
           travel, art, business, and music. Buy single issues. No subscription,
           no clutter — just great print, delivered.
         </p>
-          <a href="https://www.dpbolvw.net/click-101756007-17144677" target="_top">
-<img src="https://www.tqlkg.com/image-101756007-17335202" width="1200" height="600" alt="Instant Funding - one challenge, two accounts. Use code BOGO20 for 20% off a One-Phase Clarity" border="0"/></a>
+          <a href="https://www.jdoqocy.com/click-101756007-11921710" target="_top">  Our Partners | 
+<img src="https://www.tqlkg.com/image-101756007-11921710" width="120" height="60" alt="" border="0"/></a>
         <div className="mt-10 flex flex-wrap items-center gap-4">
           <a
             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9880287056176748"
