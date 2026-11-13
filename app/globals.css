@@ -172,3 +172,34 @@
     transform: translateX(-50%);
   }
 }
+
+.magazine-card {
+  transform-style: preserve-3d;
+  animation: magazine-float 6s ease-in-out infinite;
+  will-change: transform;
+}
+
+.magazine-card:nth-child(2) {
+  animation-delay: -2s;
+}
+
+.magazine-card:nth-child(3) {
+  animation-delay: -4s;
+}
+
+@keyframes magazine-float {
+  0%, 100% {
+    translate: 0 0;
+  }
+  50% {
+    translate: 0 -12px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .magazine-card {
+    animation: none;
+    transition: none;
+  }
+}
+
